@@ -5,5 +5,5 @@ Code copy and pasted from various scripts used throughout. Code may repeat itsel
 
 Data can be obtained by downloaing options metrics data, all fields, and naming them as the ticker.
 
-Main program is the cleaning of options through to the regressions
-Additioanl is the theoretical diagrams included in the dissertation
+- Main program is the cleaning of options through to the regressions
+- Additional is the theoretical diagrams included in the dissertation
