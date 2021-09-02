@@ -7,3 +7,4 @@ Data can be obtained by downloaing options metrics data, all fields, and naming 
 
 - Main program is the cleaning of options through to the regressions
 - Additional is the theoretical diagrams included in the dissertation
+- Further is some of the distributions and plots in the disserataion and some other work on call and put premiums that were cut out
